@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/80941562/174204809-3fb1dd7a-de31-4375-98ab-a5967915202f.png)
 
-### Em um exemplo que os passos são printados; <br>
+### Em um exemplo que são printado os passos; <br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/80941562/174204888-d5a244e5-bbff-4b66-982c-1ef37ffb8210.png)
