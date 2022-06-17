@@ -3,7 +3,9 @@
 
 #### O labirinto é inserido dessa forma: <br>
 <br>
+
 ![image](https://user-images.githubusercontent.com/80941562/174204609-8ece73fa-9ba1-4052-9c37-a2b33080503c.png)
+
 <br>
 <br>
 
