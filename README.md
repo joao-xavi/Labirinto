@@ -9,15 +9,15 @@
 <br>
 <br>
 
-###### Após inserir o labirinto na Main, ao rodar o programa, o desafio é resolvido automaticamente pelo algoritmo realizado em Pilha. Retornando - ou não - o caminho feito pelo aventureiro. <br>
+## Após inserir o labirinto na Main, ao rodar o programa, o desafio é resolvido automaticamente pelo algoritmo realizado em Pilha. Retornando - ou não - o caminho feito pelo aventureiro. <br>
 <br>
-### Em um exemplo que não é printado os passos; 
+# Em um exemplo que não é printado os passos; 
 <br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/80941562/174204809-3fb1dd7a-de31-4375-98ab-a5967915202f.png)
 
-### Em um exemplo que são printado os passos; 
+ Em um exemplo que são printado os passos; 
 <br>
 <br>
 
