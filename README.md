@@ -9,7 +9,7 @@
 <br>
 <br>
 
-#### Após inserir o labirinto na Main, ao rodar o programa, o desafio é resolvido automaticamente pelo algoritmo realizado em Pilha. Retornando - ou não - o caminho feito pelo aventureiro. <br>
+### Após inserir o labirinto na Main, ao rodar o programa, o desafio é resolvido automaticamente pelo algoritmo realizado em Pilha. Retornando - ou não - o caminho feito pelo aventureiro. <br>
 <br>
 ### Em um exemplo que não é printado os passos; <br>
 <br>
